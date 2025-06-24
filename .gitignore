@@ -1,0 +1,18 @@
+# Python env
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Audio files and temp files
+temp_*.*
+*.mp3
+*.wav
+
+# Other system files
+.DS_Store
+
+# Huggingface large model cache
+~/.cache/huggingface/
